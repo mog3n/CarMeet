@@ -13,5 +13,5 @@ Just to clarify, the app is a WIP. Many features have yet to be implemented.
 
 Take a look!
 
-![alt Main UI](/Resources/screen1.png)
-![alt Expended UI](/Resources/screen2.png)
+![alt Main UI](/Resources/ss1.png)
+![alt Expended UI](/Resources/ss2.png)
